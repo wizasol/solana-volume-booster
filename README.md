@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">✩&emsp;solana-volume-booster&emsp;✩</h1>
+    <h1 align="center">✩&emsp;solana-jupito-volume-booster&emsp;✩</h1>
 </p>
 <p align="center">
     <p align="center">solana-jupito-volume-bot with user-friendly UI + easy control + high volume boosting ability</p>
